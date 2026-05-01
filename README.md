@@ -83,4 +83,4 @@ When bumping `version`, replace each with `lib.fakeHash` and run `nix build` rep
 
 ## License
 
-The flake itself is offered without warranty. GSD itself is MIT-licensed by TÂCHES (see [upstream](https://github.com/gsd-build/get-shit-done)).
+This flake is licensed under the [MIT License](LICENSE). GSD itself is MIT-licensed by TÂCHES (see [upstream](https://github.com/gsd-build/get-shit-done)).
